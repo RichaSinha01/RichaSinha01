@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richa Sinha</h1>
-<h3 align="center">A Computer Science Graduate with profound interest in software devlopment and web development and curious to learn different technologies</h3>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">A Computer Science Graduate with a profound interest in software development and web development and curious to learn different technologies</h3>
 <p align="left">
 </p>
 
