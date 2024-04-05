@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Richa Sinha</h1>
 <h3 align="center">A Computer Science Graduate with a profound interest in software development and web development and curious to learn different technologies</h3>
 
-- 🔭 I’m currently working on **improving web development skills.s**
+- 🔭 I’m currently working on **improving web development skills.**
 
 - 🌱 I’m currently learning **deep about Data Structures And Algorithm.**
 
 - 🤝 I’m looking for help with **competitive coding**
 
-- 💬 Ask me about **competitive programming and tech related stuff.**
+- 💬 Ask me about **competitive programming and tech-related stuff.**
 
 
 <p align="left">
