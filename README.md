@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richa Sinha</h1>
-<h3 align="center">A Computer Science Graduate with a profound interest in software development and web development and curious to learn about different technologies</h3>
+<h3 align="center">A Computer Science Engineering Graduate with a profound interest in software development and web development and curious to learn about different technologies</h3>
 
 - 🔭 I’m currently working on **improving web development skills.**
 
